@@ -1,5 +1,5 @@
-from​ __future__ ​import​ ​absolute_import 
-​from​ __future__ ​import​ ​print_function 
+from​ future import​ ​absolute import 
+​from​ future ​import​ ​print function 
 import​ ​requests​, ​sys​, ​threading​, ​time​, ​os​, ​random 
 ​import​ ​json 
 from​ ​colorama​ ​import​ ​Fore 
