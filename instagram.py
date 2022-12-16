@@ -1,13 +1,12 @@
- 
- ​from​ __future__ ​import​ ​absolute_import 
- ​from​ __future__ ​import​ ​print_function 
- ​import​ ​requests​, ​sys​, ​threading​, ​time​, ​os​, ​random 
- ​import​ ​json 
- ​from​ ​colorama​ ​import​ ​Fore 
- ​CheckVersion​ ​=​ ​str​(​sys​.​version​) 
- ​import​ ​re 
- ​from​ ​datetime​ ​import​ ​datetime 
-  
+from​ __future__ ​import​ ​absolute_import 
+​from​ __future__ ​import​ ​print_function 
+import​ ​requests​, ​sys​, ​threading​, ​time​, ​os​, ​random 
+​import​ ​json 
+from​ ​colorama​ ​import​ ​Fore 
+CheckVersion​ ​=​ ​str​(​sys​.​version​) 
+​import​ ​re 
+​from​ ​datetime​ ​import​ ​datetime 
+
  ​normal_color​ ​=​ ​"\33[00m" 
  ​info_color​ ​=​ ​"​\033​[1;33m" 
  ​red_color​ ​=​ ​"​\033​[1;31m" 
