@@ -22,16 +22,16 @@
   
   
   
- ​os​.​system​(​"figlet wh1sky"​) 
+ ​os​.​system​(​"figlet arda.oficial"​) | lolcat
   
   
   
  ​print​ (​''' 
  ​__________________________________ 
- ​ Kod Sahibi :@wh1sky 
- ​ İnstagram :@__wh1sky___ 
+ ​ Kod Sahibi :@arda.officiall
+ ​ İnstagram :@arda.officiall
  ​__________________________________ 
- ​'''​) 
+ ​'''​) | lolcat
   
   
  ​class​ ​InstaBrute​(​object​): 
