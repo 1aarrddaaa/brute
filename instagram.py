@@ -27,8 +27,8 @@ CheckVersion​ ​=​ ​str​(​sys​.​version​)
   
  ​print​ (​''' 
  ​__________________________________ 
- ​ Kod Sahibi :@arda.officiall
- ​ İnstagram :@arda.officiall
+ ​ Kod Sahibi :@1aarrddaaa
+ ​ İnstagram :@1aarrddaaa
  ​__________________________________ 
  ​'''​) | lolcat
   
